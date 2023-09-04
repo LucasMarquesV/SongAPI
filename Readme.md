@@ -1,5 +1,5 @@
-# Semana 9 - Arquitetura em Camadas
-Nesta semana resolvi criar uma API que faz o papel de um CRUD. Utilizei o banco de dados SQL para inserir as informações referente as músicas.
+# SongAPI
+API que faz o papel de um CRUD. Utilizei o banco de dados SQL para inserir as informações referente as músicas.
 
 Utilizei do Entity Framework, do metodo EnsureCreated() para verificar quanto a existência do banco de dados e caso necessário cria-lo e utilizei de Data Anotations para definir as colunas e seus tipos na classe Model desta solution. Desta forma não foi necessário fazer nenhuma migration somente utilizando  (mais detalhes na classe ContextBase).
 
