@@ -1,0 +1,15 @@
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\bin\Debug\net7.0\Business.dll
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\bin\Debug\net7.0\Model.dll
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\bin\Debug\net7.0\Model.pdb
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.dll
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\FE684\Documents\Lucas\Projetos plano de estagio\Semana 9\WebAPI\Business\obj\Debug\net7.0\ref\Business.dll
